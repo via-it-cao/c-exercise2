@@ -31,7 +31,8 @@ Fist setup your compilers Warning level to `/Wall`. Right click on your project 
 
 ![Setup the warning level of the compiler in Visual Studio](./compiler_warning_level.png)
 
-- [ ] Compile the program structure, and explain the errors you get.
+1. Compile the program structure, and explain the errors you get.
 
-- [ ] In the files, various declarations, definitions and includes are missing – fix the errors that you can find until you can compile the entire program and when running it get the following output:
+1. In the files, various declarations, definitions and includes are missing – fix the errors that you can find until you can compile the entire program and when running it get the following output:
+
 ![Correct program output](./program_execution.png)
